@@ -35,7 +35,7 @@ I'm a **Full Stack Blockchain Developer** with a passion for building at the cut
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Blockchain AI Agent
+### 🤖 [Blockchain AI Agent](https://github.com/ad-dan/aiagent)
 AI-powered autonomous agents for blockchain interactions across **Solana** and **EVM** ecosystems. Combines AI reasoning with on-chain execution, enabling intelligent agents to perform complex blockchain operations from simple, natural-language instructions.
 
 `AI Agents` `Solana` `EVM` `Web3` `LLM`
@@ -43,7 +43,7 @@ AI-powered autonomous agents for blockchain interactions across **Solana** and *
 </td>
 <td width="50%" valign="top">
 
-### ☁️ EVM Node Manager
+### ☁️ [EVM Node Manager](https://github.com/ad-dan/gethwraith)
 A powerful dashboard to view, monitor, and manage **EVM-based blockchain nodes** in real time. Provides deep visibility into node health, performance, and connectivity across Ethereum-compatible networks.
 
 `Node Infrastructure` `Go` `Monitoring` `Dashboard` `Web3`
@@ -53,7 +53,7 @@ A powerful dashboard to view, monitor, and manage **EVM-based blockchain nodes**
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ Gasless DAO Governance Platform
+### 🗳️ [Gasless DAO Governance Platform](https://github.com/ad-dan/baodao)
 A full-stack **DAO** enabling seamless, gasless governance through **EIP-2771 meta-transactions**. Members participate in on-chain voting without paying transaction fees, creating a frictionless and accessible governance experience.
 
 `DAO` `Solidity` `EIP-2771` `Meta-Transactions` `Web3`
@@ -61,7 +61,7 @@ A full-stack **DAO** enabling seamless, gasless governance through **EIP-2771 me
 </td>
 <td width="50%" valign="top">
 
-### 🏪 VexDex
+### 🏪 [VexDex](https://github.com/ad-dan/vexdex)
 A fully decentralized cryptocurrency exchange built on **Ethereum**, enabling users to trade digital assets directly from their wallets without relying on centralized intermediaries.
 
 `DEX` `Ethereum` `Solidity` `DeFi` `Web3`
@@ -71,7 +71,7 @@ A fully decentralized cryptocurrency exchange built on **Ethereum**, enabling us
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ NFT Marketplace
+### 🖼️ [NFT Marketplace](https://github.com/ad-dan/nftmarketplace)
 A full-stack, open-source NFT marketplace that lets users mint, auction, buy, and sell NFTs on the **Ethereum** blockchain. Built with a modern Web3 stack for a seamless, end-to-end user experience.
 
 `Next.js` `TypeScript` `Foundry` `Wagmi` `Viem` `RainbowKit`
@@ -79,7 +79,7 @@ A full-stack, open-source NFT marketplace that lets users mint, auction, buy, an
 </td>
 <td width="50%" valign="top">
 
-### 🪙 NFT Minter
+### 🪙 [NFT Minter](https://github.com/ad-dan/erc-minter)
 A smart contract system where an **ERC-20** token powers the minting of **ERC-721** NFTs. Users spend ERC-20 tokens to mint unique NFTs, creating a token-gated, on-chain minting mechanism that ties fungible token utility directly to NFT creation.
 
 `Solidity` `ERC-20` `ERC-721` `Smart Contracts` `Web3`
