@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Blockchain+Developer;AI+%2F+Web3+Infrastructure+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" /></a>
 
+![HaikuReadme](https://chinmay29hub-haiku-readme.vercel.app/api?theme=tokyo_night&type=horizontal&border=true&font=Fira+Code&t=1781194903631)
+
 <p>
   <a href="https://www.linkedin.com/in/aditya-danapurkar-596102149/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
