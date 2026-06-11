@@ -134,6 +134,16 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 ---
 
+## GitHub Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Graph" />
+</div>
+
+---
+
+---
+
 ## GitHub Trophies
 
 <div align="center">
