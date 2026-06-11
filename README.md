@@ -179,3 +179,8 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 <a href="mailto:dan.aditya.0@gmail.com">dan.aditya.0@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/aditya-danapurkar-596102149/">LinkedIn</a>
 
 </div>
+
+<img
+    alt="svg wave"
+    src="./wave.svg"
+  />
