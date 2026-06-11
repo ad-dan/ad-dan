@@ -53,7 +53,7 @@ A powerful dashboard to view, monitor, and manage **EVM-based blockchain nodes**
 <tr>
 <td width="50%" valign="top">
 
-###🗳️ Gasless DAO Governance Platform
+### 🗳️ Gasless DAO Governance Platform
 A full-stack **DAO** enabling seamless, gasless governance through **EIP-2771 meta-transactions**. Members participate in on-chain voting without paying transaction fees, creating a frictionless and accessible governance experience.
 
 `DAO` `Solidity` `EIP-2771` `Meta-Transactions` `Web3`
@@ -61,7 +61,7 @@ A full-stack **DAO** enabling seamless, gasless governance through **EIP-2771 me
 </td>
 <td width="50%" valign="top">
 
-###🏪 VexDex
+### 🏪 VexDex
 A fully decentralized cryptocurrency exchange built on **Ethereum**, enabling users to trade digital assets directly from their wallets without relying on centralized intermediaries.
 
 `DEX` `Ethereum` `Solidity` `DeFi` `Web3`
