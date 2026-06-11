@@ -1,7 +1,6 @@
 <img
     alt="svg wave"
-    src="./wave.svg"
-    style="transform: rotate(180deg);"
+    src="./topwave.svg"
   />
   
 <div align="center">
