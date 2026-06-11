@@ -142,8 +142,6 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 ---
 
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -171,6 +169,7 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 </picture>
 
 </p>
+
 ---
 
 <div align="center">
