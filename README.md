@@ -23,11 +23,11 @@
 
 I'm a **Full Stack Blockchain Developer** with a passion for building at the cutting edge of decentralized technology. I specialize in developing **agentic AI** systems that automate complex workflows and decision-making, designing and maintaining robust **cloud infrastructure for blockchain nodes**, and bridging the gap between reliable backend systems and seamless user-facing experiences. I love turning ambitious ideas into scalable, production-ready products.
 
-- Developing **blockchain applications** — Solidity smart contracts, dApps, Web3 integrations
-- Architecting **cloud infrastructure** — Blockchain node deployment, Terraform, Docker, Kubernetes
-- Building with **Agentic AI / LLMs** — LangChain, LangGraph, OpenAI, autonomous agents
-- Running **decentralized infrastructure** — RPC nodes, Validators, Indexers, IPFS
-- Currently deepening: **full-stack Web3 development**, **multi-agent systems**, and **cloud-native patterns**
+- ⛓️ Developing **blockchain applications** — Solidity smart contracts, dApps, Web3 integrations
+- ☁️ Architecting **cloud infrastructure** — Blockchain node deployment, Terraform, Docker, Kubernetes
+- 🤖 Building with **Agentic AI / LLMs** — LangChain, LangGraph, OpenAI, autonomous agents
+- 🌐 Running **decentralized infrastructure** — RPC nodes, Validators, Indexers, IPFS
+- 📚 Currently deepening: **full-stack Web3 development**, **multi-agent systems**, and **cloud-native patterns**
 
 ---
 
