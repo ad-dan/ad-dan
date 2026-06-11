@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img
     alt="svg wave"
     src="./topwave.svg"
@@ -6,6 +6,9 @@
 </div>
 
 <br/>
+<br/>
+<br/>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Blockchain+Developer;AI+%2F+Web3+Infrastructure+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" /></a>
