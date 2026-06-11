@@ -135,7 +135,7 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ad-dan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ad-dan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </div>
 
 ---
