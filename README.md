@@ -152,6 +152,12 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 ---
 
+## GitHub Contributions
+
+![Snake Animation](https://raw.githubusercontent.com/ad-dan/ad-dan/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 <div align="center">
 
 **Let's build something great together.**
