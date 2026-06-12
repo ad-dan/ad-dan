@@ -51,7 +51,7 @@ I'm a **Full Stack Blockchain Developer** with a passion for building at the cut
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Blockchain AI Agents](https://github.com/ad-dan/aiagent)
+### 🤖 [ChainMind](https://github.com/ad-dan/aiagent)
 AI-powered autonomous agents for blockchain interactions across **Solana** and **EVM** ecosystems. Combines AI reasoning with on-chain execution, enabling intelligent agents to perform complex blockchain operations from simple, natural-language instructions.
 
 `AI Agents` `Solana` `EVM` `Web3` `LLM`
