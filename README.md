@@ -19,10 +19,6 @@
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aditya-danapurkar-596102149/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-    &nbsp;
   <a href="mailto:dan.aditya.0@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
