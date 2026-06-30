@@ -1,0 +1,34 @@
+name: Generate Maeul in the Sky Terrain
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # daily
+  workflow_dispatch:
+
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
+    steps:
+        
+        - uses: actions/checkout@v4
+
+        - name: Generate SVG
+          uses: t1seo/maeul-in-the-sky@v1
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            output_dir: profile
+            density: 8
+
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            if git commit -m "generated"; then
+              git push
+            fi
