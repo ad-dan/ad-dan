@@ -22,7 +22,7 @@ jobs:
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             output_dir: profile
-            density: 8
+            density: 10
 
         - name: Commit & Push
           run: |
