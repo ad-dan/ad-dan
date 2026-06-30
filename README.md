@@ -6,7 +6,10 @@
   <img alt="GitHub contribution terrain" src="./profile/maeul-in-the-sky-dark.svg" width="100%">
 </picture>
 </div>
----
+
+--- 
+
+
 <div align="center">
 
 <div>
@@ -29,7 +32,7 @@
 
 </div>
 
----
+--- 
 
 ## About Me
 
