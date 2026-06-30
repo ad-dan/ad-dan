@@ -5,16 +5,6 @@
 
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/maeul-in-the-sky-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/maeul-in-the-sky-light.svg">
-  <img alt="GitHub contribution terrain" src="./profile/maeul-in-the-sky-dark.svg" width="100%">
-</picture>
-</div>
-
-<br><br>
-
-<div align="center">
 
 <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Blockchain+Developer;AI+%2F+Web3+Infrastructure+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" /></a>
@@ -157,6 +147,16 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Graph" />
+</div>
+
+---
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/maeul-in-the-sky-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/maeul-in-the-sky-light.svg">
+  <img alt="GitHub contribution terrain" src="./profile/maeul-in-the-sky-dark.svg" width="100%">
+</picture>
 </div>
 
 ---
