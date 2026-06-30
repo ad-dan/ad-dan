@@ -138,7 +138,7 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ad-dan&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+<img src="./profile/streak-dark.svg" height="160" alt="Streak Stats" />
 
 </div>
 
