@@ -132,9 +132,9 @@ A smart contract system where an **ERC-20** token powers the minting of **ERC-72
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ad-dan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="160" alt="GitHub Stats" />
+<img src="./profile/stats.svg" height="160" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-dan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+<img src="./profile/top-langs.svg" height="160" alt="Top Languages" />
 
 <br/>
 
