@@ -1,1 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Aditya%20Danapurkar&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Blockchain%20Developer%20%7C%20AI%20%2F%20Web3%20Builder&descSize=18&descColor=c7d2fe&descAlignY=62&animation=fadeIn" width="100%" alt="Header"/>
+
+$${\color{lightgreen}This \space is \space green \space text}$$
+$${\color{coral}This \space is \space coral \space text}$$
